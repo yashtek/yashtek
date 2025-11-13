@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">Web Developer | Backend Learner | Cloud & DevOps Enthusiast</h3>
 
-<img align="right" alt="coding" width="420" src="https://media.tenor.com/2uyENR6Y19YAAAAC/coding.gif">
+<!-- New Interesting Developer GIF -->
+<img align="right" alt="coding" width="420" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+<!-- Working profile view counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashtek&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=yashtek&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 - 🚀 Currently strengthening **system design, scalable backend development, and cloud-native skills**
@@ -22,8 +24,6 @@
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-
-<!-- ONE SINGLE PERFECT ROW -->
 
 <p align="left" style="display:flex; gap:10px; flex-wrap:nowrap;">
 
@@ -48,13 +48,14 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtek&layout=compact&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtek&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtek&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtek&show_icons=true" />
 </p>
 
+<!-- Fully working streak stats -->
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=yashtek" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yashtek" />
 </p>
