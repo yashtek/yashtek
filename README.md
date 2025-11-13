@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&pause=800&color=0E75B6&width=480&lines=Welcome+to+my+GitHub+Profile.;Backend+%7C+Cloud+%7C+DevOps+Enthusiast.;Explore.+Learn.+Build.+Repeat." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile.;Backend+%7C+Cloud+%7C+DevOps+Enthusiast.;Explore.+Learn.+Build.+Repeat." />
 </p>
+
 
 
 <!-- New Interesting Developer GIF -->
