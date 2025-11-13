@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile.;Backend+%7C+Cloud+%7C+DevOps+Enthusiast.;Explore.+Learn.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile.;Full-Stack+%7C+Cloud+%7C+DevOps.;Driven+by+curiosity,+powered+by+code,+open+to+every+challenge." />
 </p>
+
 
 
 
