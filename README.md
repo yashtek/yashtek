@@ -11,7 +11,7 @@
 
 <!-- Working profile view counter -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1200&color=DFD920&center=false&vCenter=true&width=250&lines=+Let's+do+it..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=8000&pause=1200&color=DFD920&center=false&vCenter=true&width=250&lines=+Let's+do+it..." />
 </p> 
 
 
