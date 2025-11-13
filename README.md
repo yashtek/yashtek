@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">Web Developer | Backend Learner | Cloud & DevOps Enthusiast</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&pause=800&color=0E75B6&width=480&lines=Welcome+to+my+GitHub+Profile.;Backend+%7C+Cloud+%7C+DevOps+Enthusiast.;Explore.+Learn.+Build.+Repeat." />
+</p>
+
 
 <!-- New Interesting Developer GIF -->
 <img align="right" alt="coding" width="420" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <!-- Working profile view counter -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=2500&pause=800&color=0E75B6&center=false&vCenter=true&width=250&lines=Profile+Views:+${yashtek}" />
-</p>
+<!-- <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=2500&pause=800&color=0E75B6&center=false&vCenter=true&width=250&lines=+Views:+${yashtek}" />
+</p> -->
 
 
 - 🚀 Currently strengthening **system design, scalable backend development, and cloud-native skills**
@@ -56,7 +58,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtek&show_icons=true" />
 </p>
 
-<!-- Fully working streak stats -->
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=yashtek" />
-</p>
+
