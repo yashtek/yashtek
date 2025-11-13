@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=4000&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Buddy;Full-Stack+%7C+Cloud+%7C+DevOp...;Driven+by+curiosity,+powered+by+code,+open+to+every+challenge." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile.;Full-Stack+%7C+Cloud+%7C+DevOps...;Driven+by+curiosity%2C+powered+by+code%2C+open+to+every+challenge." />
 </p>
+
 
 
 
@@ -9,9 +10,9 @@
 <img align="right" alt="coding" width="420" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <!-- Working profile view counter -->
-<!-- <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=2500&pause=800&color=0E75B6&center=false&vCenter=true&width=250&lines=+Views:+${yashtek}" />
-</p> -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=8000&pause=800&color=0E75B6&center=false&vCenter=true&width=250&lines=+If+you+want+to+Build+I+AM+IN." />
+</p> 
 
 
 - 🚀 Currently strengthening **system design, scalable backend development, and cloud-native skills**
