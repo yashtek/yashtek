@@ -6,8 +6,9 @@
 
 <!-- Working profile view counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashtek&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=2500&pause=800&color=0E75B6&center=false&vCenter=true&width=250&lines=Profile+Views:+${yashtek}" />
 </p>
+
 
 - 🚀 Currently strengthening **system design, scalable backend development, and cloud-native skills**
 - 👨‍💻 All of my projects are available at **https://github.com/yashtek**
@@ -57,5 +58,5 @@
 
 <!-- Fully working streak stats -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yashtek" />
+  <img align="center" src="https://streak-stats.demolab.com?user=yashtek" />
 </p>
