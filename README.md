@@ -56,12 +56,12 @@
 
 <br>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtek&layout=compact" />
-</p>
+</p> -->
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtek&show_icons=true" />
-</p>
+</p> -->
 
 
