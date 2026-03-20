@@ -40,10 +40,10 @@
   <img src="https://bun.sh/logo.svg" width="45" height="45"/>
   <img src="https://imgs.search.brave.com/1do5xS_vdVxSNL-M3Af24Cf_kQFuWkLYY6Q9fTffLXo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3plbm4t/dXNlci11cGxvYWQv/YWQyMjI2ZmE5MGNi/LTIwMjUxMTI3LnBu/Zw" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="45" height="45"/>
+
  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   <img src="https://imgs.search.brave.com/x5x4uF6nlS9J2AnIeWsIuuaGRKOWAxd5QsteLGwk7_E/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5nP3dpZHRo/PTk2JmhlaWdodD05/NiZmcmFtZT0xJmF1/dG89d2VicCZjcm9w/PTk2Ojk2LHNtYXJ0/JnM9MzNkNmExZjAx/M2ZiNzU2ZmYxZTRj/MGRhZTg3NmRjYzRh/ZDE4OWExOQ" width="45" height="45"/>
  
@@ -53,7 +53,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+    <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 
