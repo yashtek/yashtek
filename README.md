@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-    <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="45" height="45"/>
+    <img src="https://imgs.search.brave.com/3QT4UlgzAgMV17RW5etSrLuRK1gHhTVX65N1wf-TC-k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvZ29v/Z2xlLWZpcmViYXNl/LWxvZ28taWNvbi5w/bmc" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 
