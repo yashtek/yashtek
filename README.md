@@ -37,15 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://imgs.search.brave.com/j4m50dDt8HzNKVwa4SMB1OjOMn2xk9sCZautNpEhvp0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlbmV3c3RhY2su/aW8vbWVkaWEvMjAy/My8wOS9hY2VjN2Fj/MC1idW4ucG5n" width="45" height="45"/>
+  <img src="https://bun.sh/logo.svg" width="45" height="45"/>
   <img src="https://imgs.search.brave.com/1do5xS_vdVxSNL-M3Af24Cf_kQFuWkLYY6Q9fTffLXo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3plbm4t/dXNlci11cGxvYWQv/YWQyMjI2ZmE5MGNi/LTIwMjUxMTI3LnBu/Zw" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/174px-PostgreSQL_logo.3colors.svg.png" width="45" height="45"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="45" height="45"/>
  
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://imgs.search.brave.com/5-kzHBjZS7alptlYtfmNic26P6eX_4cHBuvr-4C-D0g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZDJhbHVlLXJ4/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5qcGVnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTcxNDU1NjIyMjE3/OA" width="45" height="45"/>
+  <img src="https://imgs.search.brave.com/x5x4uF6nlS9J2AnIeWsIuuaGRKOWAxd5QsteLGwk7_E/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5nP3dpZHRo/PTk2JmhlaWdodD05/NiZmcmFtZT0xJmF1/dG89d2VicCZjcm9w/PTk2Ojk2LHNtYXJ0/JnM9MzNkNmExZjAx/M2ZiNzU2ZmYxZTRj/MGRhZTg3NmRjYzRh/ZDE4OWExOQ" width="45" height="45"/>
  
 
 
