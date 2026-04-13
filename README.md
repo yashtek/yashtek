@@ -16,7 +16,7 @@
 
 
 - 🚀 Currently strengthening **system design, scalable backend development, and cloud-native skills**
-- 👨‍💻 Visit my LinkedIn Profile **https://www.linkedin.com/in/01yashsharma/**
+- 👨‍💻 Visit my Profile **https://www.yashtek.in/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
